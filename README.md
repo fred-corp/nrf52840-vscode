@@ -1,7 +1,5 @@
 # nRF52840 VSCode Template
 
-> Note : this is a fork of the original [nRF52840 VSCode Template](https://github.com/abferm/nrf52840-vscode), to work on a macOS implementation.
-
 ## Why ?
 
 I was frustrated with the setup process for the nrf sdk and tools, so I made this sample project to make setup simple and automate installation of the sdk and cli tools.
