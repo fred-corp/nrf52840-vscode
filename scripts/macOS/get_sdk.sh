@@ -11,6 +11,7 @@ echo ""
 
 # wait for the user to press a key
 read -n 1 -s -r -p "Press any key to continue"
+echo ""
 
 # Clone and install micro-ecc
 git clone --depth 1 https://github.com/kmackay/micro-ecc.git nrf-sdk/external/micro-ecc/micro-ecc
